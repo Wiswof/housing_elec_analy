@@ -2,4 +2,4 @@ Data is mapped every 1.5 minutes. For those who don't have data,0 is recorded. _
 
 I personally recommend using LivingRoomOutlets and DiningRoomOutlets to do the first trial.
 
-Time is written in 24 hours
+Time is written in 24 hours.
